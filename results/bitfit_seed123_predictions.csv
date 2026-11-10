@@ -1,0 +1,1109 @@
+﻿sample_id,method,seed,true_label_id,true_label,predicted_label_id,predicted_label,correct
+0,BitFit,123,1,not_entailment,1,not_entailment,1
+1,BitFit,123,0,entailment,1,not_entailment,0
+2,BitFit,123,1,not_entailment,0,entailment,0
+3,BitFit,123,1,not_entailment,0,entailment,0
+4,BitFit,123,0,entailment,0,entailment,1
+5,BitFit,123,0,entailment,0,entailment,1
+6,BitFit,123,0,entailment,0,entailment,1
+7,BitFit,123,0,entailment,0,entailment,1
+8,BitFit,123,0,entailment,0,entailment,1
+9,BitFit,123,0,entailment,0,entailment,1
+10,BitFit,123,0,entailment,0,entailment,1
+11,BitFit,123,1,not_entailment,0,entailment,0
+12,BitFit,123,1,not_entailment,0,entailment,0
+13,BitFit,123,0,entailment,0,entailment,1
+14,BitFit,123,0,entailment,0,entailment,1
+15,BitFit,123,1,not_entailment,0,entailment,0
+16,BitFit,123,1,not_entailment,0,entailment,0
+17,BitFit,123,0,entailment,0,entailment,1
+18,BitFit,123,0,entailment,0,entailment,1
+19,BitFit,123,1,not_entailment,1,not_entailment,1
+20,BitFit,123,0,entailment,0,entailment,1
+21,BitFit,123,0,entailment,1,not_entailment,0
+22,BitFit,123,0,entailment,0,entailment,1
+23,BitFit,123,0,entailment,0,entailment,1
+24,BitFit,123,1,not_entailment,1,not_entailment,1
+25,BitFit,123,1,not_entailment,0,entailment,0
+26,BitFit,123,1,not_entailment,1,not_entailment,1
+27,BitFit,123,0,entailment,0,entailment,1
+28,BitFit,123,1,not_entailment,0,entailment,0
+29,BitFit,123,1,not_entailment,1,not_entailment,1
+30,BitFit,123,1,not_entailment,0,entailment,0
+31,BitFit,123,0,entailment,0,entailment,1
+32,BitFit,123,1,not_entailment,0,entailment,0
+33,BitFit,123,1,not_entailment,0,entailment,0
+34,BitFit,123,0,entailment,0,entailment,1
+35,BitFit,123,1,not_entailment,1,not_entailment,1
+36,BitFit,123,1,not_entailment,0,entailment,0
+37,BitFit,123,0,entailment,0,entailment,1
+38,BitFit,123,1,not_entailment,1,not_entailment,1
+39,BitFit,123,1,not_entailment,1,not_entailment,1
+40,BitFit,123,0,entailment,0,entailment,1
+41,BitFit,123,1,not_entailment,0,entailment,0
+42,BitFit,123,0,entailment,0,entailment,1
+43,BitFit,123,0,entailment,0,entailment,1
+44,BitFit,123,0,entailment,0,entailment,1
+45,BitFit,123,1,not_entailment,1,not_entailment,1
+46,BitFit,123,0,entailment,0,entailment,1
+47,BitFit,123,1,not_entailment,0,entailment,0
+48,BitFit,123,1,not_entailment,0,entailment,0
+49,BitFit,123,1,not_entailment,1,not_entailment,1
+50,BitFit,123,1,not_entailment,0,entailment,0
+51,BitFit,123,0,entailment,0,entailment,1
+52,BitFit,123,1,not_entailment,0,entailment,0
+53,BitFit,123,0,entailment,0,entailment,1
+54,BitFit,123,0,entailment,0,entailment,1
+55,BitFit,123,1,not_entailment,0,entailment,0
+56,BitFit,123,0,entailment,0,entailment,1
+57,BitFit,123,1,not_entailment,1,not_entailment,1
+58,BitFit,123,1,not_entailment,0,entailment,0
+59,BitFit,123,0,entailment,0,entailment,1
+60,BitFit,123,0,entailment,1,not_entailment,0
+61,BitFit,123,1,not_entailment,1,not_entailment,1
+62,BitFit,123,1,not_entailment,0,entailment,0
+63,BitFit,123,0,entailment,0,entailment,1
+64,BitFit,123,1,not_entailment,1,not_entailment,1
+65,BitFit,123,1,not_entailment,1,not_entailment,1
+66,BitFit,123,0,entailment,1,not_entailment,0
+67,BitFit,123,0,entailment,1,not_entailment,0
+68,BitFit,123,0,entailment,1,not_entailment,0
+69,BitFit,123,0,entailment,0,entailment,1
+70,BitFit,123,0,entailment,1,not_entailment,0
+71,BitFit,123,0,entailment,0,entailment,1
+72,BitFit,123,1,not_entailment,1,not_entailment,1
+73,BitFit,123,0,entailment,0,entailment,1
+74,BitFit,123,0,entailment,0,entailment,1
+75,BitFit,123,1,not_entailment,0,entailment,0
+76,BitFit,123,0,entailment,0,entailment,1
+77,BitFit,123,1,not_entailment,0,entailment,0
+78,BitFit,123,1,not_entailment,0,entailment,0
+79,BitFit,123,0,entailment,0,entailment,1
+80,BitFit,123,1,not_entailment,1,not_entailment,1
+81,BitFit,123,0,entailment,0,entailment,1
+82,BitFit,123,1,not_entailment,0,entailment,0
+83,BitFit,123,1,not_entailment,1,not_entailment,1
+84,BitFit,123,1,not_entailment,1,not_entailment,1
+85,BitFit,123,0,entailment,0,entailment,1
+86,BitFit,123,0,entailment,0,entailment,1
+87,BitFit,123,1,not_entailment,0,entailment,0
+88,BitFit,123,0,entailment,0,entailment,1
+89,BitFit,123,1,not_entailment,1,not_entailment,1
+90,BitFit,123,0,entailment,0,entailment,1
+91,BitFit,123,1,not_entailment,0,entailment,0
+92,BitFit,123,0,entailment,0,entailment,1
+93,BitFit,123,0,entailment,0,entailment,1
+94,BitFit,123,1,not_entailment,0,entailment,0
+95,BitFit,123,1,not_entailment,0,entailment,0
+96,BitFit,123,1,not_entailment,0,entailment,0
+97,BitFit,123,0,entailment,0,entailment,1
+98,BitFit,123,0,entailment,1,not_entailment,0
+99,BitFit,123,0,entailment,0,entailment,1
+100,BitFit,123,0,entailment,0,entailment,1
+101,BitFit,123,0,entailment,0,entailment,1
+102,BitFit,123,0,entailment,0,entailment,1
+103,BitFit,123,0,entailment,0,entailment,1
+104,BitFit,123,0,entailment,0,entailment,1
+105,BitFit,123,0,entailment,0,entailment,1
+106,BitFit,123,0,entailment,0,entailment,1
+107,BitFit,123,1,not_entailment,1,not_entailment,1
+108,BitFit,123,0,entailment,0,entailment,1
+109,BitFit,123,0,entailment,0,entailment,1
+110,BitFit,123,0,entailment,1,not_entailment,0
+111,BitFit,123,0,entailment,0,entailment,1
+112,BitFit,123,0,entailment,0,entailment,1
+113,BitFit,123,1,not_entailment,0,entailment,0
+114,BitFit,123,1,not_entailment,1,not_entailment,1
+115,BitFit,123,0,entailment,0,entailment,1
+116,BitFit,123,0,entailment,0,entailment,1
+117,BitFit,123,1,not_entailment,1,not_entailment,1
+118,BitFit,123,1,not_entailment,0,entailment,0
+119,BitFit,123,1,not_entailment,1,not_entailment,1
+120,BitFit,123,1,not_entailment,1,not_entailment,1
+121,BitFit,123,1,not_entailment,0,entailment,0
+122,BitFit,123,1,not_entailment,0,entailment,0
+123,BitFit,123,0,entailment,0,entailment,1
+124,BitFit,123,1,not_entailment,0,entailment,0
+125,BitFit,123,1,not_entailment,1,not_entailment,1
+126,BitFit,123,1,not_entailment,1,not_entailment,1
+127,BitFit,123,1,not_entailment,0,entailment,0
+128,BitFit,123,0,entailment,0,entailment,1
+129,BitFit,123,0,entailment,0,entailment,1
+130,BitFit,123,1,not_entailment,0,entailment,0
+131,BitFit,123,0,entailment,0,entailment,1
+132,BitFit,123,0,entailment,0,entailment,1
+133,BitFit,123,1,not_entailment,1,not_entailment,1
+134,BitFit,123,0,entailment,0,entailment,1
+135,BitFit,123,0,entailment,0,entailment,1
+136,BitFit,123,1,not_entailment,0,entailment,0
+137,BitFit,123,0,entailment,0,entailment,1
+138,BitFit,123,1,not_entailment,1,not_entailment,1
+139,BitFit,123,1,not_entailment,0,entailment,0
+140,BitFit,123,1,not_entailment,1,not_entailment,1
+141,BitFit,123,0,entailment,0,entailment,1
+142,BitFit,123,1,not_entailment,1,not_entailment,1
+143,BitFit,123,0,entailment,0,entailment,1
+144,BitFit,123,1,not_entailment,1,not_entailment,1
+145,BitFit,123,0,entailment,0,entailment,1
+146,BitFit,123,0,entailment,0,entailment,1
+147,BitFit,123,1,not_entailment,0,entailment,0
+148,BitFit,123,0,entailment,0,entailment,1
+149,BitFit,123,0,entailment,1,not_entailment,0
+150,BitFit,123,1,not_entailment,0,entailment,0
+151,BitFit,123,1,not_entailment,1,not_entailment,1
+152,BitFit,123,0,entailment,0,entailment,1
+153,BitFit,123,0,entailment,1,not_entailment,0
+154,BitFit,123,0,entailment,0,entailment,1
+155,BitFit,123,0,entailment,1,not_entailment,0
+156,BitFit,123,1,not_entailment,1,not_entailment,1
+157,BitFit,123,0,entailment,0,entailment,1
+158,BitFit,123,1,not_entailment,1,not_entailment,1
+159,BitFit,123,1,not_entailment,1,not_entailment,1
+160,BitFit,123,0,entailment,0,entailment,1
+161,BitFit,123,0,entailment,0,entailment,1
+162,BitFit,123,1,not_entailment,0,entailment,0
+163,BitFit,123,1,not_entailment,1,not_entailment,1
+164,BitFit,123,0,entailment,1,not_entailment,0
+165,BitFit,123,0,entailment,1,not_entailment,0
+166,BitFit,123,1,not_entailment,0,entailment,0
+167,BitFit,123,1,not_entailment,0,entailment,0
+168,BitFit,123,1,not_entailment,1,not_entailment,1
+169,BitFit,123,1,not_entailment,1,not_entailment,1
+170,BitFit,123,0,entailment,0,entailment,1
+171,BitFit,123,0,entailment,0,entailment,1
+172,BitFit,123,1,not_entailment,0,entailment,0
+173,BitFit,123,0,entailment,0,entailment,1
+174,BitFit,123,0,entailment,0,entailment,1
+175,BitFit,123,0,entailment,0,entailment,1
+176,BitFit,123,0,entailment,0,entailment,1
+177,BitFit,123,0,entailment,0,entailment,1
+178,BitFit,123,1,not_entailment,1,not_entailment,1
+179,BitFit,123,1,not_entailment,0,entailment,0
+180,BitFit,123,0,entailment,0,entailment,1
+181,BitFit,123,0,entailment,1,not_entailment,0
+182,BitFit,123,1,not_entailment,1,not_entailment,1
+183,BitFit,123,1,not_entailment,0,entailment,0
+184,BitFit,123,0,entailment,0,entailment,1
+185,BitFit,123,0,entailment,0,entailment,1
+186,BitFit,123,0,entailment,0,entailment,1
+187,BitFit,123,0,entailment,0,entailment,1
+188,BitFit,123,0,entailment,0,entailment,1
+189,BitFit,123,0,entailment,0,entailment,1
+190,BitFit,123,1,not_entailment,1,not_entailment,1
+191,BitFit,123,0,entailment,1,not_entailment,0
+192,BitFit,123,1,not_entailment,0,entailment,0
+193,BitFit,123,0,entailment,0,entailment,1
+194,BitFit,123,1,not_entailment,0,entailment,0
+195,BitFit,123,0,entailment,1,not_entailment,0
+196,BitFit,123,1,not_entailment,0,entailment,0
+197,BitFit,123,0,entailment,0,entailment,1
+198,BitFit,123,1,not_entailment,1,not_entailment,1
+199,BitFit,123,1,not_entailment,1,not_entailment,1
+200,BitFit,123,0,entailment,0,entailment,1
+201,BitFit,123,0,entailment,0,entailment,1
+202,BitFit,123,0,entailment,0,entailment,1
+203,BitFit,123,1,not_entailment,1,not_entailment,1
+204,BitFit,123,0,entailment,0,entailment,1
+205,BitFit,123,1,not_entailment,0,entailment,0
+206,BitFit,123,1,not_entailment,0,entailment,0
+207,BitFit,123,1,not_entailment,0,entailment,0
+208,BitFit,123,1,not_entailment,0,entailment,0
+209,BitFit,123,1,not_entailment,1,not_entailment,1
+210,BitFit,123,0,entailment,0,entailment,1
+211,BitFit,123,0,entailment,0,entailment,1
+212,BitFit,123,0,entailment,0,entailment,1
+213,BitFit,123,1,not_entailment,0,entailment,0
+214,BitFit,123,0,entailment,0,entailment,1
+215,BitFit,123,1,not_entailment,0,entailment,0
+216,BitFit,123,0,entailment,1,not_entailment,0
+217,BitFit,123,1,not_entailment,0,entailment,0
+218,BitFit,123,1,not_entailment,0,entailment,0
+219,BitFit,123,0,entailment,1,not_entailment,0
+220,BitFit,123,0,entailment,0,entailment,1
+221,BitFit,123,0,entailment,0,entailment,1
+222,BitFit,123,1,not_entailment,0,entailment,0
+223,BitFit,123,1,not_entailment,0,entailment,0
+224,BitFit,123,0,entailment,0,entailment,1
+225,BitFit,123,1,not_entailment,0,entailment,0
+226,BitFit,123,0,entailment,0,entailment,1
+227,BitFit,123,0,entailment,1,not_entailment,0
+228,BitFit,123,1,not_entailment,1,not_entailment,1
+229,BitFit,123,0,entailment,0,entailment,1
+230,BitFit,123,1,not_entailment,1,not_entailment,1
+231,BitFit,123,0,entailment,0,entailment,1
+232,BitFit,123,1,not_entailment,1,not_entailment,1
+233,BitFit,123,1,not_entailment,0,entailment,0
+234,BitFit,123,0,entailment,1,not_entailment,0
+235,BitFit,123,0,entailment,1,not_entailment,0
+236,BitFit,123,1,not_entailment,0,entailment,0
+237,BitFit,123,0,entailment,1,not_entailment,0
+238,BitFit,123,1,not_entailment,0,entailment,0
+239,BitFit,123,1,not_entailment,1,not_entailment,1
+240,BitFit,123,0,entailment,0,entailment,1
+241,BitFit,123,0,entailment,0,entailment,1
+242,BitFit,123,1,not_entailment,0,entailment,0
+243,BitFit,123,1,not_entailment,0,entailment,0
+244,BitFit,123,1,not_entailment,1,not_entailment,1
+245,BitFit,123,1,not_entailment,1,not_entailment,1
+246,BitFit,123,1,not_entailment,0,entailment,0
+247,BitFit,123,0,entailment,0,entailment,1
+248,BitFit,123,1,not_entailment,0,entailment,0
+249,BitFit,123,1,not_entailment,1,not_entailment,1
+250,BitFit,123,1,not_entailment,0,entailment,0
+251,BitFit,123,0,entailment,0,entailment,1
+252,BitFit,123,1,not_entailment,1,not_entailment,1
+253,BitFit,123,0,entailment,0,entailment,1
+254,BitFit,123,1,not_entailment,0,entailment,0
+255,BitFit,123,0,entailment,0,entailment,1
+256,BitFit,123,0,entailment,0,entailment,1
+257,BitFit,123,0,entailment,0,entailment,1
+258,BitFit,123,1,not_entailment,0,entailment,0
+259,BitFit,123,0,entailment,0,entailment,1
+260,BitFit,123,0,entailment,0,entailment,1
+261,BitFit,123,1,not_entailment,1,not_entailment,1
+262,BitFit,123,0,entailment,0,entailment,1
+263,BitFit,123,0,entailment,0,entailment,1
+264,BitFit,123,1,not_entailment,1,not_entailment,1
+265,BitFit,123,1,not_entailment,0,entailment,0
+266,BitFit,123,0,entailment,0,entailment,1
+267,BitFit,123,1,not_entailment,0,entailment,0
+268,BitFit,123,0,entailment,1,not_entailment,0
+269,BitFit,123,1,not_entailment,1,not_entailment,1
+270,BitFit,123,1,not_entailment,0,entailment,0
+271,BitFit,123,1,not_entailment,1,not_entailment,1
+272,BitFit,123,0,entailment,0,entailment,1
+273,BitFit,123,0,entailment,0,entailment,1
+274,BitFit,123,0,entailment,0,entailment,1
+275,BitFit,123,0,entailment,0,entailment,1
+276,BitFit,123,1,not_entailment,0,entailment,0
+0,Classifier-only,123,1,not_entailment,0,entailment,0
+1,Classifier-only,123,0,entailment,0,entailment,1
+2,Classifier-only,123,1,not_entailment,0,entailment,0
+3,Classifier-only,123,1,not_entailment,0,entailment,0
+4,Classifier-only,123,0,entailment,0,entailment,1
+5,Classifier-only,123,0,entailment,0,entailment,1
+6,Classifier-only,123,0,entailment,0,entailment,1
+7,Classifier-only,123,0,entailment,0,entailment,1
+8,Classifier-only,123,0,entailment,0,entailment,1
+9,Classifier-only,123,0,entailment,0,entailment,1
+10,Classifier-only,123,0,entailment,0,entailment,1
+11,Classifier-only,123,1,not_entailment,0,entailment,0
+12,Classifier-only,123,1,not_entailment,0,entailment,0
+13,Classifier-only,123,0,entailment,0,entailment,1
+14,Classifier-only,123,0,entailment,0,entailment,1
+15,Classifier-only,123,1,not_entailment,0,entailment,0
+16,Classifier-only,123,1,not_entailment,0,entailment,0
+17,Classifier-only,123,0,entailment,0,entailment,1
+18,Classifier-only,123,0,entailment,1,not_entailment,0
+19,Classifier-only,123,1,not_entailment,0,entailment,0
+20,Classifier-only,123,0,entailment,0,entailment,1
+21,Classifier-only,123,0,entailment,0,entailment,1
+22,Classifier-only,123,0,entailment,0,entailment,1
+23,Classifier-only,123,0,entailment,0,entailment,1
+24,Classifier-only,123,1,not_entailment,0,entailment,0
+25,Classifier-only,123,1,not_entailment,0,entailment,0
+26,Classifier-only,123,1,not_entailment,0,entailment,0
+27,Classifier-only,123,0,entailment,0,entailment,1
+28,Classifier-only,123,1,not_entailment,0,entailment,0
+29,Classifier-only,123,1,not_entailment,0,entailment,0
+30,Classifier-only,123,1,not_entailment,0,entailment,0
+31,Classifier-only,123,0,entailment,0,entailment,1
+32,Classifier-only,123,1,not_entailment,0,entailment,0
+33,Classifier-only,123,1,not_entailment,0,entailment,0
+34,Classifier-only,123,0,entailment,0,entailment,1
+35,Classifier-only,123,1,not_entailment,0,entailment,0
+36,Classifier-only,123,1,not_entailment,0,entailment,0
+37,Classifier-only,123,0,entailment,0,entailment,1
+38,Classifier-only,123,1,not_entailment,0,entailment,0
+39,Classifier-only,123,1,not_entailment,1,not_entailment,1
+40,Classifier-only,123,0,entailment,0,entailment,1
+41,Classifier-only,123,1,not_entailment,0,entailment,0
+42,Classifier-only,123,0,entailment,0,entailment,1
+43,Classifier-only,123,0,entailment,0,entailment,1
+44,Classifier-only,123,0,entailment,0,entailment,1
+45,Classifier-only,123,1,not_entailment,0,entailment,0
+46,Classifier-only,123,0,entailment,0,entailment,1
+47,Classifier-only,123,1,not_entailment,0,entailment,0
+48,Classifier-only,123,1,not_entailment,0,entailment,0
+49,Classifier-only,123,1,not_entailment,0,entailment,0
+50,Classifier-only,123,1,not_entailment,0,entailment,0
+51,Classifier-only,123,0,entailment,0,entailment,1
+52,Classifier-only,123,1,not_entailment,0,entailment,0
+53,Classifier-only,123,0,entailment,0,entailment,1
+54,Classifier-only,123,0,entailment,0,entailment,1
+55,Classifier-only,123,1,not_entailment,0,entailment,0
+56,Classifier-only,123,0,entailment,0,entailment,1
+57,Classifier-only,123,1,not_entailment,0,entailment,0
+58,Classifier-only,123,1,not_entailment,0,entailment,0
+59,Classifier-only,123,0,entailment,0,entailment,1
+60,Classifier-only,123,0,entailment,0,entailment,1
+61,Classifier-only,123,1,not_entailment,1,not_entailment,1
+62,Classifier-only,123,1,not_entailment,0,entailment,0
+63,Classifier-only,123,0,entailment,0,entailment,1
+64,Classifier-only,123,1,not_entailment,0,entailment,0
+65,Classifier-only,123,1,not_entailment,0,entailment,0
+66,Classifier-only,123,0,entailment,0,entailment,1
+67,Classifier-only,123,0,entailment,0,entailment,1
+68,Classifier-only,123,0,entailment,0,entailment,1
+69,Classifier-only,123,0,entailment,0,entailment,1
+70,Classifier-only,123,0,entailment,0,entailment,1
+71,Classifier-only,123,0,entailment,0,entailment,1
+72,Classifier-only,123,1,not_entailment,0,entailment,0
+73,Classifier-only,123,0,entailment,0,entailment,1
+74,Classifier-only,123,0,entailment,0,entailment,1
+75,Classifier-only,123,1,not_entailment,0,entailment,0
+76,Classifier-only,123,0,entailment,0,entailment,1
+77,Classifier-only,123,1,not_entailment,0,entailment,0
+78,Classifier-only,123,1,not_entailment,0,entailment,0
+79,Classifier-only,123,0,entailment,0,entailment,1
+80,Classifier-only,123,1,not_entailment,0,entailment,0
+81,Classifier-only,123,0,entailment,0,entailment,1
+82,Classifier-only,123,1,not_entailment,0,entailment,0
+83,Classifier-only,123,1,not_entailment,0,entailment,0
+84,Classifier-only,123,1,not_entailment,0,entailment,0
+85,Classifier-only,123,0,entailment,0,entailment,1
+86,Classifier-only,123,0,entailment,0,entailment,1
+87,Classifier-only,123,1,not_entailment,0,entailment,0
+88,Classifier-only,123,0,entailment,0,entailment,1
+89,Classifier-only,123,1,not_entailment,0,entailment,0
+90,Classifier-only,123,0,entailment,0,entailment,1
+91,Classifier-only,123,1,not_entailment,0,entailment,0
+92,Classifier-only,123,0,entailment,1,not_entailment,0
+93,Classifier-only,123,0,entailment,0,entailment,1
+94,Classifier-only,123,1,not_entailment,0,entailment,0
+95,Classifier-only,123,1,not_entailment,0,entailment,0
+96,Classifier-only,123,1,not_entailment,0,entailment,0
+97,Classifier-only,123,0,entailment,0,entailment,1
+98,Classifier-only,123,0,entailment,0,entailment,1
+99,Classifier-only,123,0,entailment,0,entailment,1
+100,Classifier-only,123,0,entailment,0,entailment,1
+101,Classifier-only,123,0,entailment,0,entailment,1
+102,Classifier-only,123,0,entailment,0,entailment,1
+103,Classifier-only,123,0,entailment,0,entailment,1
+104,Classifier-only,123,0,entailment,0,entailment,1
+105,Classifier-only,123,0,entailment,0,entailment,1
+106,Classifier-only,123,0,entailment,0,entailment,1
+107,Classifier-only,123,1,not_entailment,0,entailment,0
+108,Classifier-only,123,0,entailment,0,entailment,1
+109,Classifier-only,123,0,entailment,0,entailment,1
+110,Classifier-only,123,0,entailment,0,entailment,1
+111,Classifier-only,123,0,entailment,0,entailment,1
+112,Classifier-only,123,0,entailment,0,entailment,1
+113,Classifier-only,123,1,not_entailment,0,entailment,0
+114,Classifier-only,123,1,not_entailment,0,entailment,0
+115,Classifier-only,123,0,entailment,0,entailment,1
+116,Classifier-only,123,0,entailment,0,entailment,1
+117,Classifier-only,123,1,not_entailment,1,not_entailment,1
+118,Classifier-only,123,1,not_entailment,0,entailment,0
+119,Classifier-only,123,1,not_entailment,0,entailment,0
+120,Classifier-only,123,1,not_entailment,1,not_entailment,1
+121,Classifier-only,123,1,not_entailment,0,entailment,0
+122,Classifier-only,123,1,not_entailment,0,entailment,0
+123,Classifier-only,123,0,entailment,0,entailment,1
+124,Classifier-only,123,1,not_entailment,0,entailment,0
+125,Classifier-only,123,1,not_entailment,0,entailment,0
+126,Classifier-only,123,1,not_entailment,0,entailment,0
+127,Classifier-only,123,1,not_entailment,0,entailment,0
+128,Classifier-only,123,0,entailment,0,entailment,1
+129,Classifier-only,123,0,entailment,0,entailment,1
+130,Classifier-only,123,1,not_entailment,0,entailment,0
+131,Classifier-only,123,0,entailment,0,entailment,1
+132,Classifier-only,123,0,entailment,0,entailment,1
+133,Classifier-only,123,1,not_entailment,1,not_entailment,1
+134,Classifier-only,123,0,entailment,1,not_entailment,0
+135,Classifier-only,123,0,entailment,0,entailment,1
+136,Classifier-only,123,1,not_entailment,0,entailment,0
+137,Classifier-only,123,0,entailment,1,not_entailment,0
+138,Classifier-only,123,1,not_entailment,0,entailment,0
+139,Classifier-only,123,1,not_entailment,0,entailment,0
+140,Classifier-only,123,1,not_entailment,0,entailment,0
+141,Classifier-only,123,0,entailment,0,entailment,1
+142,Classifier-only,123,1,not_entailment,0,entailment,0
+143,Classifier-only,123,0,entailment,0,entailment,1
+144,Classifier-only,123,1,not_entailment,0,entailment,0
+145,Classifier-only,123,0,entailment,0,entailment,1
+146,Classifier-only,123,0,entailment,0,entailment,1
+147,Classifier-only,123,1,not_entailment,0,entailment,0
+148,Classifier-only,123,0,entailment,1,not_entailment,0
+149,Classifier-only,123,0,entailment,0,entailment,1
+150,Classifier-only,123,1,not_entailment,0,entailment,0
+151,Classifier-only,123,1,not_entailment,1,not_entailment,1
+152,Classifier-only,123,0,entailment,0,entailment,1
+153,Classifier-only,123,0,entailment,0,entailment,1
+154,Classifier-only,123,0,entailment,0,entailment,1
+155,Classifier-only,123,0,entailment,0,entailment,1
+156,Classifier-only,123,1,not_entailment,0,entailment,0
+157,Classifier-only,123,0,entailment,0,entailment,1
+158,Classifier-only,123,1,not_entailment,1,not_entailment,1
+159,Classifier-only,123,1,not_entailment,1,not_entailment,1
+160,Classifier-only,123,0,entailment,0,entailment,1
+161,Classifier-only,123,0,entailment,0,entailment,1
+162,Classifier-only,123,1,not_entailment,0,entailment,0
+163,Classifier-only,123,1,not_entailment,0,entailment,0
+164,Classifier-only,123,0,entailment,0,entailment,1
+165,Classifier-only,123,0,entailment,0,entailment,1
+166,Classifier-only,123,1,not_entailment,0,entailment,0
+167,Classifier-only,123,1,not_entailment,0,entailment,0
+168,Classifier-only,123,1,not_entailment,0,entailment,0
+169,Classifier-only,123,1,not_entailment,0,entailment,0
+170,Classifier-only,123,0,entailment,0,entailment,1
+171,Classifier-only,123,0,entailment,0,entailment,1
+172,Classifier-only,123,1,not_entailment,0,entailment,0
+173,Classifier-only,123,0,entailment,0,entailment,1
+174,Classifier-only,123,0,entailment,0,entailment,1
+175,Classifier-only,123,0,entailment,0,entailment,1
+176,Classifier-only,123,0,entailment,0,entailment,1
+177,Classifier-only,123,0,entailment,0,entailment,1
+178,Classifier-only,123,1,not_entailment,0,entailment,0
+179,Classifier-only,123,1,not_entailment,0,entailment,0
+180,Classifier-only,123,0,entailment,0,entailment,1
+181,Classifier-only,123,0,entailment,0,entailment,1
+182,Classifier-only,123,1,not_entailment,0,entailment,0
+183,Classifier-only,123,1,not_entailment,0,entailment,0
+184,Classifier-only,123,0,entailment,0,entailment,1
+185,Classifier-only,123,0,entailment,0,entailment,1
+186,Classifier-only,123,0,entailment,0,entailment,1
+187,Classifier-only,123,0,entailment,0,entailment,1
+188,Classifier-only,123,0,entailment,0,entailment,1
+189,Classifier-only,123,0,entailment,0,entailment,1
+190,Classifier-only,123,1,not_entailment,1,not_entailment,1
+191,Classifier-only,123,0,entailment,0,entailment,1
+192,Classifier-only,123,1,not_entailment,0,entailment,0
+193,Classifier-only,123,0,entailment,0,entailment,1
+194,Classifier-only,123,1,not_entailment,0,entailment,0
+195,Classifier-only,123,0,entailment,0,entailment,1
+196,Classifier-only,123,1,not_entailment,0,entailment,0
+197,Classifier-only,123,0,entailment,0,entailment,1
+198,Classifier-only,123,1,not_entailment,1,not_entailment,1
+199,Classifier-only,123,1,not_entailment,1,not_entailment,1
+200,Classifier-only,123,0,entailment,0,entailment,1
+201,Classifier-only,123,0,entailment,0,entailment,1
+202,Classifier-only,123,0,entailment,0,entailment,1
+203,Classifier-only,123,1,not_entailment,1,not_entailment,1
+204,Classifier-only,123,0,entailment,0,entailment,1
+205,Classifier-only,123,1,not_entailment,0,entailment,0
+206,Classifier-only,123,1,not_entailment,0,entailment,0
+207,Classifier-only,123,1,not_entailment,0,entailment,0
+208,Classifier-only,123,1,not_entailment,0,entailment,0
+209,Classifier-only,123,1,not_entailment,0,entailment,0
+210,Classifier-only,123,0,entailment,0,entailment,1
+211,Classifier-only,123,0,entailment,0,entailment,1
+212,Classifier-only,123,0,entailment,0,entailment,1
+213,Classifier-only,123,1,not_entailment,0,entailment,0
+214,Classifier-only,123,0,entailment,0,entailment,1
+215,Classifier-only,123,1,not_entailment,0,entailment,0
+216,Classifier-only,123,0,entailment,0,entailment,1
+217,Classifier-only,123,1,not_entailment,0,entailment,0
+218,Classifier-only,123,1,not_entailment,0,entailment,0
+219,Classifier-only,123,0,entailment,1,not_entailment,0
+220,Classifier-only,123,0,entailment,0,entailment,1
+221,Classifier-only,123,0,entailment,0,entailment,1
+222,Classifier-only,123,1,not_entailment,0,entailment,0
+223,Classifier-only,123,1,not_entailment,0,entailment,0
+224,Classifier-only,123,0,entailment,0,entailment,1
+225,Classifier-only,123,1,not_entailment,0,entailment,0
+226,Classifier-only,123,0,entailment,0,entailment,1
+227,Classifier-only,123,0,entailment,0,entailment,1
+228,Classifier-only,123,1,not_entailment,0,entailment,0
+229,Classifier-only,123,0,entailment,0,entailment,1
+230,Classifier-only,123,1,not_entailment,0,entailment,0
+231,Classifier-only,123,0,entailment,0,entailment,1
+232,Classifier-only,123,1,not_entailment,0,entailment,0
+233,Classifier-only,123,1,not_entailment,0,entailment,0
+234,Classifier-only,123,0,entailment,0,entailment,1
+235,Classifier-only,123,0,entailment,0,entailment,1
+236,Classifier-only,123,1,not_entailment,0,entailment,0
+237,Classifier-only,123,0,entailment,0,entailment,1
+238,Classifier-only,123,1,not_entailment,0,entailment,0
+239,Classifier-only,123,1,not_entailment,0,entailment,0
+240,Classifier-only,123,0,entailment,0,entailment,1
+241,Classifier-only,123,0,entailment,0,entailment,1
+242,Classifier-only,123,1,not_entailment,0,entailment,0
+243,Classifier-only,123,1,not_entailment,0,entailment,0
+244,Classifier-only,123,1,not_entailment,0,entailment,0
+245,Classifier-only,123,1,not_entailment,0,entailment,0
+246,Classifier-only,123,1,not_entailment,0,entailment,0
+247,Classifier-only,123,0,entailment,0,entailment,1
+248,Classifier-only,123,1,not_entailment,0,entailment,0
+249,Classifier-only,123,1,not_entailment,1,not_entailment,1
+250,Classifier-only,123,1,not_entailment,0,entailment,0
+251,Classifier-only,123,0,entailment,0,entailment,1
+252,Classifier-only,123,1,not_entailment,1,not_entailment,1
+253,Classifier-only,123,0,entailment,0,entailment,1
+254,Classifier-only,123,1,not_entailment,0,entailment,0
+255,Classifier-only,123,0,entailment,0,entailment,1
+256,Classifier-only,123,0,entailment,0,entailment,1
+257,Classifier-only,123,0,entailment,0,entailment,1
+258,Classifier-only,123,1,not_entailment,0,entailment,0
+259,Classifier-only,123,0,entailment,0,entailment,1
+260,Classifier-only,123,0,entailment,0,entailment,1
+261,Classifier-only,123,1,not_entailment,1,not_entailment,1
+262,Classifier-only,123,0,entailment,0,entailment,1
+263,Classifier-only,123,0,entailment,1,not_entailment,0
+264,Classifier-only,123,1,not_entailment,0,entailment,0
+265,Classifier-only,123,1,not_entailment,0,entailment,0
+266,Classifier-only,123,0,entailment,0,entailment,1
+267,Classifier-only,123,1,not_entailment,0,entailment,0
+268,Classifier-only,123,0,entailment,0,entailment,1
+269,Classifier-only,123,1,not_entailment,0,entailment,0
+270,Classifier-only,123,1,not_entailment,0,entailment,0
+271,Classifier-only,123,1,not_entailment,0,entailment,0
+272,Classifier-only,123,0,entailment,0,entailment,1
+273,Classifier-only,123,0,entailment,0,entailment,1
+274,Classifier-only,123,0,entailment,0,entailment,1
+275,Classifier-only,123,0,entailment,0,entailment,1
+276,Classifier-only,123,1,not_entailment,0,entailment,0
+0,Full FT,123,1,not_entailment,1,not_entailment,1
+1,Full FT,123,0,entailment,1,not_entailment,0
+2,Full FT,123,1,not_entailment,0,entailment,0
+3,Full FT,123,1,not_entailment,0,entailment,0
+4,Full FT,123,0,entailment,0,entailment,1
+5,Full FT,123,0,entailment,0,entailment,1
+6,Full FT,123,0,entailment,0,entailment,1
+7,Full FT,123,0,entailment,0,entailment,1
+8,Full FT,123,0,entailment,0,entailment,1
+9,Full FT,123,0,entailment,0,entailment,1
+10,Full FT,123,0,entailment,0,entailment,1
+11,Full FT,123,1,not_entailment,0,entailment,0
+12,Full FT,123,1,not_entailment,0,entailment,0
+13,Full FT,123,0,entailment,0,entailment,1
+14,Full FT,123,0,entailment,1,not_entailment,0
+15,Full FT,123,1,not_entailment,0,entailment,0
+16,Full FT,123,1,not_entailment,0,entailment,0
+17,Full FT,123,0,entailment,0,entailment,1
+18,Full FT,123,0,entailment,0,entailment,1
+19,Full FT,123,1,not_entailment,1,not_entailment,1
+20,Full FT,123,0,entailment,0,entailment,1
+21,Full FT,123,0,entailment,1,not_entailment,0
+22,Full FT,123,0,entailment,0,entailment,1
+23,Full FT,123,0,entailment,0,entailment,1
+24,Full FT,123,1,not_entailment,1,not_entailment,1
+25,Full FT,123,1,not_entailment,0,entailment,0
+26,Full FT,123,1,not_entailment,1,not_entailment,1
+27,Full FT,123,0,entailment,0,entailment,1
+28,Full FT,123,1,not_entailment,0,entailment,0
+29,Full FT,123,1,not_entailment,1,not_entailment,1
+30,Full FT,123,1,not_entailment,1,not_entailment,1
+31,Full FT,123,0,entailment,1,not_entailment,0
+32,Full FT,123,1,not_entailment,1,not_entailment,1
+33,Full FT,123,1,not_entailment,0,entailment,0
+34,Full FT,123,0,entailment,0,entailment,1
+35,Full FT,123,1,not_entailment,0,entailment,0
+36,Full FT,123,1,not_entailment,1,not_entailment,1
+37,Full FT,123,0,entailment,0,entailment,1
+38,Full FT,123,1,not_entailment,1,not_entailment,1
+39,Full FT,123,1,not_entailment,1,not_entailment,1
+40,Full FT,123,0,entailment,0,entailment,1
+41,Full FT,123,1,not_entailment,0,entailment,0
+42,Full FT,123,0,entailment,0,entailment,1
+43,Full FT,123,0,entailment,0,entailment,1
+44,Full FT,123,0,entailment,0,entailment,1
+45,Full FT,123,1,not_entailment,1,not_entailment,1
+46,Full FT,123,0,entailment,1,not_entailment,0
+47,Full FT,123,1,not_entailment,0,entailment,0
+48,Full FT,123,1,not_entailment,0,entailment,0
+49,Full FT,123,1,not_entailment,1,not_entailment,1
+50,Full FT,123,1,not_entailment,0,entailment,0
+51,Full FT,123,0,entailment,0,entailment,1
+52,Full FT,123,1,not_entailment,1,not_entailment,1
+53,Full FT,123,0,entailment,0,entailment,1
+54,Full FT,123,0,entailment,1,not_entailment,0
+55,Full FT,123,1,not_entailment,1,not_entailment,1
+56,Full FT,123,0,entailment,1,not_entailment,0
+57,Full FT,123,1,not_entailment,1,not_entailment,1
+58,Full FT,123,1,not_entailment,1,not_entailment,1
+59,Full FT,123,0,entailment,0,entailment,1
+60,Full FT,123,0,entailment,1,not_entailment,0
+61,Full FT,123,1,not_entailment,1,not_entailment,1
+62,Full FT,123,1,not_entailment,0,entailment,0
+63,Full FT,123,0,entailment,0,entailment,1
+64,Full FT,123,1,not_entailment,1,not_entailment,1
+65,Full FT,123,1,not_entailment,1,not_entailment,1
+66,Full FT,123,0,entailment,1,not_entailment,0
+67,Full FT,123,0,entailment,1,not_entailment,0
+68,Full FT,123,0,entailment,1,not_entailment,0
+69,Full FT,123,0,entailment,0,entailment,1
+70,Full FT,123,0,entailment,1,not_entailment,0
+71,Full FT,123,0,entailment,0,entailment,1
+72,Full FT,123,1,not_entailment,1,not_entailment,1
+73,Full FT,123,0,entailment,0,entailment,1
+74,Full FT,123,0,entailment,0,entailment,1
+75,Full FT,123,1,not_entailment,1,not_entailment,1
+76,Full FT,123,0,entailment,1,not_entailment,0
+77,Full FT,123,1,not_entailment,1,not_entailment,1
+78,Full FT,123,1,not_entailment,1,not_entailment,1
+79,Full FT,123,0,entailment,0,entailment,1
+80,Full FT,123,1,not_entailment,1,not_entailment,1
+81,Full FT,123,0,entailment,0,entailment,1
+82,Full FT,123,1,not_entailment,0,entailment,0
+83,Full FT,123,1,not_entailment,0,entailment,0
+84,Full FT,123,1,not_entailment,1,not_entailment,1
+85,Full FT,123,0,entailment,0,entailment,1
+86,Full FT,123,0,entailment,1,not_entailment,0
+87,Full FT,123,1,not_entailment,1,not_entailment,1
+88,Full FT,123,0,entailment,0,entailment,1
+89,Full FT,123,1,not_entailment,1,not_entailment,1
+90,Full FT,123,0,entailment,0,entailment,1
+91,Full FT,123,1,not_entailment,1,not_entailment,1
+92,Full FT,123,0,entailment,0,entailment,1
+93,Full FT,123,0,entailment,0,entailment,1
+94,Full FT,123,1,not_entailment,1,not_entailment,1
+95,Full FT,123,1,not_entailment,0,entailment,0
+96,Full FT,123,1,not_entailment,0,entailment,0
+97,Full FT,123,0,entailment,1,not_entailment,0
+98,Full FT,123,0,entailment,1,not_entailment,0
+99,Full FT,123,0,entailment,0,entailment,1
+100,Full FT,123,0,entailment,0,entailment,1
+101,Full FT,123,0,entailment,0,entailment,1
+102,Full FT,123,0,entailment,0,entailment,1
+103,Full FT,123,0,entailment,0,entailment,1
+104,Full FT,123,0,entailment,0,entailment,1
+105,Full FT,123,0,entailment,0,entailment,1
+106,Full FT,123,0,entailment,0,entailment,1
+107,Full FT,123,1,not_entailment,1,not_entailment,1
+108,Full FT,123,0,entailment,0,entailment,1
+109,Full FT,123,0,entailment,0,entailment,1
+110,Full FT,123,0,entailment,1,not_entailment,0
+111,Full FT,123,0,entailment,0,entailment,1
+112,Full FT,123,0,entailment,0,entailment,1
+113,Full FT,123,1,not_entailment,1,not_entailment,1
+114,Full FT,123,1,not_entailment,0,entailment,0
+115,Full FT,123,0,entailment,1,not_entailment,0
+116,Full FT,123,0,entailment,0,entailment,1
+117,Full FT,123,1,not_entailment,1,not_entailment,1
+118,Full FT,123,1,not_entailment,0,entailment,0
+119,Full FT,123,1,not_entailment,1,not_entailment,1
+120,Full FT,123,1,not_entailment,0,entailment,0
+121,Full FT,123,1,not_entailment,1,not_entailment,1
+122,Full FT,123,1,not_entailment,1,not_entailment,1
+123,Full FT,123,0,entailment,0,entailment,1
+124,Full FT,123,1,not_entailment,0,entailment,0
+125,Full FT,123,1,not_entailment,1,not_entailment,1
+126,Full FT,123,1,not_entailment,1,not_entailment,1
+127,Full FT,123,1,not_entailment,0,entailment,0
+128,Full FT,123,0,entailment,1,not_entailment,0
+129,Full FT,123,0,entailment,1,not_entailment,0
+130,Full FT,123,1,not_entailment,1,not_entailment,1
+131,Full FT,123,0,entailment,0,entailment,1
+132,Full FT,123,0,entailment,0,entailment,1
+133,Full FT,123,1,not_entailment,1,not_entailment,1
+134,Full FT,123,0,entailment,0,entailment,1
+135,Full FT,123,0,entailment,0,entailment,1
+136,Full FT,123,1,not_entailment,1,not_entailment,1
+137,Full FT,123,0,entailment,1,not_entailment,0
+138,Full FT,123,1,not_entailment,1,not_entailment,1
+139,Full FT,123,1,not_entailment,0,entailment,0
+140,Full FT,123,1,not_entailment,1,not_entailment,1
+141,Full FT,123,0,entailment,0,entailment,1
+142,Full FT,123,1,not_entailment,1,not_entailment,1
+143,Full FT,123,0,entailment,0,entailment,1
+144,Full FT,123,1,not_entailment,1,not_entailment,1
+145,Full FT,123,0,entailment,0,entailment,1
+146,Full FT,123,0,entailment,0,entailment,1
+147,Full FT,123,1,not_entailment,0,entailment,0
+148,Full FT,123,0,entailment,0,entailment,1
+149,Full FT,123,0,entailment,1,not_entailment,0
+150,Full FT,123,1,not_entailment,0,entailment,0
+151,Full FT,123,1,not_entailment,0,entailment,0
+152,Full FT,123,0,entailment,0,entailment,1
+153,Full FT,123,0,entailment,1,not_entailment,0
+154,Full FT,123,0,entailment,1,not_entailment,0
+155,Full FT,123,0,entailment,1,not_entailment,0
+156,Full FT,123,1,not_entailment,0,entailment,0
+157,Full FT,123,0,entailment,0,entailment,1
+158,Full FT,123,1,not_entailment,1,not_entailment,1
+159,Full FT,123,1,not_entailment,1,not_entailment,1
+160,Full FT,123,0,entailment,0,entailment,1
+161,Full FT,123,0,entailment,1,not_entailment,0
+162,Full FT,123,1,not_entailment,1,not_entailment,1
+163,Full FT,123,1,not_entailment,1,not_entailment,1
+164,Full FT,123,0,entailment,1,not_entailment,0
+165,Full FT,123,0,entailment,1,not_entailment,0
+166,Full FT,123,1,not_entailment,0,entailment,0
+167,Full FT,123,1,not_entailment,0,entailment,0
+168,Full FT,123,1,not_entailment,1,not_entailment,1
+169,Full FT,123,1,not_entailment,1,not_entailment,1
+170,Full FT,123,0,entailment,0,entailment,1
+171,Full FT,123,0,entailment,0,entailment,1
+172,Full FT,123,1,not_entailment,0,entailment,0
+173,Full FT,123,0,entailment,0,entailment,1
+174,Full FT,123,0,entailment,0,entailment,1
+175,Full FT,123,0,entailment,0,entailment,1
+176,Full FT,123,0,entailment,0,entailment,1
+177,Full FT,123,0,entailment,0,entailment,1
+178,Full FT,123,1,not_entailment,1,not_entailment,1
+179,Full FT,123,1,not_entailment,0,entailment,0
+180,Full FT,123,0,entailment,0,entailment,1
+181,Full FT,123,0,entailment,0,entailment,1
+182,Full FT,123,1,not_entailment,1,not_entailment,1
+183,Full FT,123,1,not_entailment,1,not_entailment,1
+184,Full FT,123,0,entailment,1,not_entailment,0
+185,Full FT,123,0,entailment,0,entailment,1
+186,Full FT,123,0,entailment,0,entailment,1
+187,Full FT,123,0,entailment,0,entailment,1
+188,Full FT,123,0,entailment,0,entailment,1
+189,Full FT,123,0,entailment,0,entailment,1
+190,Full FT,123,1,not_entailment,1,not_entailment,1
+191,Full FT,123,0,entailment,1,not_entailment,0
+192,Full FT,123,1,not_entailment,0,entailment,0
+193,Full FT,123,0,entailment,0,entailment,1
+194,Full FT,123,1,not_entailment,0,entailment,0
+195,Full FT,123,0,entailment,1,not_entailment,0
+196,Full FT,123,1,not_entailment,0,entailment,0
+197,Full FT,123,0,entailment,0,entailment,1
+198,Full FT,123,1,not_entailment,1,not_entailment,1
+199,Full FT,123,1,not_entailment,1,not_entailment,1
+200,Full FT,123,0,entailment,0,entailment,1
+201,Full FT,123,0,entailment,0,entailment,1
+202,Full FT,123,0,entailment,0,entailment,1
+203,Full FT,123,1,not_entailment,1,not_entailment,1
+204,Full FT,123,0,entailment,0,entailment,1
+205,Full FT,123,1,not_entailment,0,entailment,0
+206,Full FT,123,1,not_entailment,1,not_entailment,1
+207,Full FT,123,1,not_entailment,1,not_entailment,1
+208,Full FT,123,1,not_entailment,1,not_entailment,1
+209,Full FT,123,1,not_entailment,1,not_entailment,1
+210,Full FT,123,0,entailment,1,not_entailment,0
+211,Full FT,123,0,entailment,0,entailment,1
+212,Full FT,123,0,entailment,0,entailment,1
+213,Full FT,123,1,not_entailment,0,entailment,0
+214,Full FT,123,0,entailment,0,entailment,1
+215,Full FT,123,1,not_entailment,1,not_entailment,1
+216,Full FT,123,0,entailment,0,entailment,1
+217,Full FT,123,1,not_entailment,1,not_entailment,1
+218,Full FT,123,1,not_entailment,0,entailment,0
+219,Full FT,123,0,entailment,1,not_entailment,0
+220,Full FT,123,0,entailment,1,not_entailment,0
+221,Full FT,123,0,entailment,0,entailment,1
+222,Full FT,123,1,not_entailment,1,not_entailment,1
+223,Full FT,123,1,not_entailment,1,not_entailment,1
+224,Full FT,123,0,entailment,0,entailment,1
+225,Full FT,123,1,not_entailment,1,not_entailment,1
+226,Full FT,123,0,entailment,0,entailment,1
+227,Full FT,123,0,entailment,1,not_entailment,0
+228,Full FT,123,1,not_entailment,1,not_entailment,1
+229,Full FT,123,0,entailment,0,entailment,1
+230,Full FT,123,1,not_entailment,1,not_entailment,1
+231,Full FT,123,0,entailment,1,not_entailment,0
+232,Full FT,123,1,not_entailment,1,not_entailment,1
+233,Full FT,123,1,not_entailment,0,entailment,0
+234,Full FT,123,0,entailment,1,not_entailment,0
+235,Full FT,123,0,entailment,1,not_entailment,0
+236,Full FT,123,1,not_entailment,1,not_entailment,1
+237,Full FT,123,0,entailment,1,not_entailment,0
+238,Full FT,123,1,not_entailment,1,not_entailment,1
+239,Full FT,123,1,not_entailment,1,not_entailment,1
+240,Full FT,123,0,entailment,0,entailment,1
+241,Full FT,123,0,entailment,0,entailment,1
+242,Full FT,123,1,not_entailment,0,entailment,0
+243,Full FT,123,1,not_entailment,0,entailment,0
+244,Full FT,123,1,not_entailment,1,not_entailment,1
+245,Full FT,123,1,not_entailment,1,not_entailment,1
+246,Full FT,123,1,not_entailment,1,not_entailment,1
+247,Full FT,123,0,entailment,0,entailment,1
+248,Full FT,123,1,not_entailment,1,not_entailment,1
+249,Full FT,123,1,not_entailment,1,not_entailment,1
+250,Full FT,123,1,not_entailment,0,entailment,0
+251,Full FT,123,0,entailment,0,entailment,1
+252,Full FT,123,1,not_entailment,1,not_entailment,1
+253,Full FT,123,0,entailment,1,not_entailment,0
+254,Full FT,123,1,not_entailment,0,entailment,0
+255,Full FT,123,0,entailment,0,entailment,1
+256,Full FT,123,0,entailment,0,entailment,1
+257,Full FT,123,0,entailment,0,entailment,1
+258,Full FT,123,1,not_entailment,1,not_entailment,1
+259,Full FT,123,0,entailment,0,entailment,1
+260,Full FT,123,0,entailment,1,not_entailment,0
+261,Full FT,123,1,not_entailment,0,entailment,0
+262,Full FT,123,0,entailment,0,entailment,1
+263,Full FT,123,0,entailment,0,entailment,1
+264,Full FT,123,1,not_entailment,0,entailment,0
+265,Full FT,123,1,not_entailment,1,not_entailment,1
+266,Full FT,123,0,entailment,0,entailment,1
+267,Full FT,123,1,not_entailment,0,entailment,0
+268,Full FT,123,0,entailment,0,entailment,1
+269,Full FT,123,1,not_entailment,1,not_entailment,1
+270,Full FT,123,1,not_entailment,0,entailment,0
+271,Full FT,123,1,not_entailment,1,not_entailment,1
+272,Full FT,123,0,entailment,0,entailment,1
+273,Full FT,123,0,entailment,0,entailment,1
+274,Full FT,123,0,entailment,0,entailment,1
+275,Full FT,123,0,entailment,1,not_entailment,0
+276,Full FT,123,1,not_entailment,1,not_entailment,1
+0,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+1,Partial BitFit,123,0,entailment,1,not_entailment,0
+2,Partial BitFit,123,1,not_entailment,0,entailment,0
+3,Partial BitFit,123,1,not_entailment,0,entailment,0
+4,Partial BitFit,123,0,entailment,0,entailment,1
+5,Partial BitFit,123,0,entailment,0,entailment,1
+6,Partial BitFit,123,0,entailment,0,entailment,1
+7,Partial BitFit,123,0,entailment,0,entailment,1
+8,Partial BitFit,123,0,entailment,0,entailment,1
+9,Partial BitFit,123,0,entailment,0,entailment,1
+10,Partial BitFit,123,0,entailment,0,entailment,1
+11,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+12,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+13,Partial BitFit,123,0,entailment,0,entailment,1
+14,Partial BitFit,123,0,entailment,1,not_entailment,0
+15,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+16,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+17,Partial BitFit,123,0,entailment,0,entailment,1
+18,Partial BitFit,123,0,entailment,0,entailment,1
+19,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+20,Partial BitFit,123,0,entailment,0,entailment,1
+21,Partial BitFit,123,0,entailment,1,not_entailment,0
+22,Partial BitFit,123,0,entailment,0,entailment,1
+23,Partial BitFit,123,0,entailment,0,entailment,1
+24,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+25,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+26,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+27,Partial BitFit,123,0,entailment,0,entailment,1
+28,Partial BitFit,123,1,not_entailment,0,entailment,0
+29,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+30,Partial BitFit,123,1,not_entailment,0,entailment,0
+31,Partial BitFit,123,0,entailment,1,not_entailment,0
+32,Partial BitFit,123,1,not_entailment,0,entailment,0
+33,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+34,Partial BitFit,123,0,entailment,0,entailment,1
+35,Partial BitFit,123,1,not_entailment,0,entailment,0
+36,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+37,Partial BitFit,123,0,entailment,0,entailment,1
+38,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+39,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+40,Partial BitFit,123,0,entailment,0,entailment,1
+41,Partial BitFit,123,1,not_entailment,0,entailment,0
+42,Partial BitFit,123,0,entailment,0,entailment,1
+43,Partial BitFit,123,0,entailment,0,entailment,1
+44,Partial BitFit,123,0,entailment,0,entailment,1
+45,Partial BitFit,123,1,not_entailment,0,entailment,0
+46,Partial BitFit,123,0,entailment,0,entailment,1
+47,Partial BitFit,123,1,not_entailment,0,entailment,0
+48,Partial BitFit,123,1,not_entailment,0,entailment,0
+49,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+50,Partial BitFit,123,1,not_entailment,0,entailment,0
+51,Partial BitFit,123,0,entailment,1,not_entailment,0
+52,Partial BitFit,123,1,not_entailment,0,entailment,0
+53,Partial BitFit,123,0,entailment,0,entailment,1
+54,Partial BitFit,123,0,entailment,1,not_entailment,0
+55,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+56,Partial BitFit,123,0,entailment,0,entailment,1
+57,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+58,Partial BitFit,123,1,not_entailment,0,entailment,0
+59,Partial BitFit,123,0,entailment,0,entailment,1
+60,Partial BitFit,123,0,entailment,1,not_entailment,0
+61,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+62,Partial BitFit,123,1,not_entailment,0,entailment,0
+63,Partial BitFit,123,0,entailment,0,entailment,1
+64,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+65,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+66,Partial BitFit,123,0,entailment,1,not_entailment,0
+67,Partial BitFit,123,0,entailment,1,not_entailment,0
+68,Partial BitFit,123,0,entailment,1,not_entailment,0
+69,Partial BitFit,123,0,entailment,0,entailment,1
+70,Partial BitFit,123,0,entailment,1,not_entailment,0
+71,Partial BitFit,123,0,entailment,0,entailment,1
+72,Partial BitFit,123,1,not_entailment,0,entailment,0
+73,Partial BitFit,123,0,entailment,0,entailment,1
+74,Partial BitFit,123,0,entailment,0,entailment,1
+75,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+76,Partial BitFit,123,0,entailment,1,not_entailment,0
+77,Partial BitFit,123,1,not_entailment,0,entailment,0
+78,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+79,Partial BitFit,123,0,entailment,0,entailment,1
+80,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+81,Partial BitFit,123,0,entailment,0,entailment,1
+82,Partial BitFit,123,1,not_entailment,0,entailment,0
+83,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+84,Partial BitFit,123,1,not_entailment,0,entailment,0
+85,Partial BitFit,123,0,entailment,0,entailment,1
+86,Partial BitFit,123,0,entailment,0,entailment,1
+87,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+88,Partial BitFit,123,0,entailment,0,entailment,1
+89,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+90,Partial BitFit,123,0,entailment,0,entailment,1
+91,Partial BitFit,123,1,not_entailment,0,entailment,0
+92,Partial BitFit,123,0,entailment,0,entailment,1
+93,Partial BitFit,123,0,entailment,1,not_entailment,0
+94,Partial BitFit,123,1,not_entailment,0,entailment,0
+95,Partial BitFit,123,1,not_entailment,0,entailment,0
+96,Partial BitFit,123,1,not_entailment,0,entailment,0
+97,Partial BitFit,123,0,entailment,1,not_entailment,0
+98,Partial BitFit,123,0,entailment,1,not_entailment,0
+99,Partial BitFit,123,0,entailment,0,entailment,1
+100,Partial BitFit,123,0,entailment,0,entailment,1
+101,Partial BitFit,123,0,entailment,0,entailment,1
+102,Partial BitFit,123,0,entailment,0,entailment,1
+103,Partial BitFit,123,0,entailment,0,entailment,1
+104,Partial BitFit,123,0,entailment,0,entailment,1
+105,Partial BitFit,123,0,entailment,0,entailment,1
+106,Partial BitFit,123,0,entailment,0,entailment,1
+107,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+108,Partial BitFit,123,0,entailment,0,entailment,1
+109,Partial BitFit,123,0,entailment,0,entailment,1
+110,Partial BitFit,123,0,entailment,1,not_entailment,0
+111,Partial BitFit,123,0,entailment,0,entailment,1
+112,Partial BitFit,123,0,entailment,0,entailment,1
+113,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+114,Partial BitFit,123,1,not_entailment,0,entailment,0
+115,Partial BitFit,123,0,entailment,1,not_entailment,0
+116,Partial BitFit,123,0,entailment,0,entailment,1
+117,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+118,Partial BitFit,123,1,not_entailment,0,entailment,0
+119,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+120,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+121,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+122,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+123,Partial BitFit,123,0,entailment,0,entailment,1
+124,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+125,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+126,Partial BitFit,123,1,not_entailment,0,entailment,0
+127,Partial BitFit,123,1,not_entailment,0,entailment,0
+128,Partial BitFit,123,0,entailment,1,not_entailment,0
+129,Partial BitFit,123,0,entailment,0,entailment,1
+130,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+131,Partial BitFit,123,0,entailment,0,entailment,1
+132,Partial BitFit,123,0,entailment,1,not_entailment,0
+133,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+134,Partial BitFit,123,0,entailment,0,entailment,1
+135,Partial BitFit,123,0,entailment,0,entailment,1
+136,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+137,Partial BitFit,123,0,entailment,0,entailment,1
+138,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+139,Partial BitFit,123,1,not_entailment,0,entailment,0
+140,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+141,Partial BitFit,123,0,entailment,0,entailment,1
+142,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+143,Partial BitFit,123,0,entailment,0,entailment,1
+144,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+145,Partial BitFit,123,0,entailment,0,entailment,1
+146,Partial BitFit,123,0,entailment,1,not_entailment,0
+147,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+148,Partial BitFit,123,0,entailment,0,entailment,1
+149,Partial BitFit,123,0,entailment,1,not_entailment,0
+150,Partial BitFit,123,1,not_entailment,0,entailment,0
+151,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+152,Partial BitFit,123,0,entailment,0,entailment,1
+153,Partial BitFit,123,0,entailment,1,not_entailment,0
+154,Partial BitFit,123,0,entailment,1,not_entailment,0
+155,Partial BitFit,123,0,entailment,1,not_entailment,0
+156,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+157,Partial BitFit,123,0,entailment,0,entailment,1
+158,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+159,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+160,Partial BitFit,123,0,entailment,0,entailment,1
+161,Partial BitFit,123,0,entailment,1,not_entailment,0
+162,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+163,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+164,Partial BitFit,123,0,entailment,1,not_entailment,0
+165,Partial BitFit,123,0,entailment,1,not_entailment,0
+166,Partial BitFit,123,1,not_entailment,0,entailment,0
+167,Partial BitFit,123,1,not_entailment,0,entailment,0
+168,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+169,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+170,Partial BitFit,123,0,entailment,0,entailment,1
+171,Partial BitFit,123,0,entailment,0,entailment,1
+172,Partial BitFit,123,1,not_entailment,0,entailment,0
+173,Partial BitFit,123,0,entailment,0,entailment,1
+174,Partial BitFit,123,0,entailment,1,not_entailment,0
+175,Partial BitFit,123,0,entailment,0,entailment,1
+176,Partial BitFit,123,0,entailment,0,entailment,1
+177,Partial BitFit,123,0,entailment,0,entailment,1
+178,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+179,Partial BitFit,123,1,not_entailment,0,entailment,0
+180,Partial BitFit,123,0,entailment,1,not_entailment,0
+181,Partial BitFit,123,0,entailment,1,not_entailment,0
+182,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+183,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+184,Partial BitFit,123,0,entailment,0,entailment,1
+185,Partial BitFit,123,0,entailment,0,entailment,1
+186,Partial BitFit,123,0,entailment,0,entailment,1
+187,Partial BitFit,123,0,entailment,0,entailment,1
+188,Partial BitFit,123,0,entailment,0,entailment,1
+189,Partial BitFit,123,0,entailment,0,entailment,1
+190,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+191,Partial BitFit,123,0,entailment,1,not_entailment,0
+192,Partial BitFit,123,1,not_entailment,0,entailment,0
+193,Partial BitFit,123,0,entailment,0,entailment,1
+194,Partial BitFit,123,1,not_entailment,0,entailment,0
+195,Partial BitFit,123,0,entailment,1,not_entailment,0
+196,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+197,Partial BitFit,123,0,entailment,0,entailment,1
+198,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+199,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+200,Partial BitFit,123,0,entailment,0,entailment,1
+201,Partial BitFit,123,0,entailment,0,entailment,1
+202,Partial BitFit,123,0,entailment,0,entailment,1
+203,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+204,Partial BitFit,123,0,entailment,0,entailment,1
+205,Partial BitFit,123,1,not_entailment,0,entailment,0
+206,Partial BitFit,123,1,not_entailment,0,entailment,0
+207,Partial BitFit,123,1,not_entailment,0,entailment,0
+208,Partial BitFit,123,1,not_entailment,0,entailment,0
+209,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+210,Partial BitFit,123,0,entailment,0,entailment,1
+211,Partial BitFit,123,0,entailment,0,entailment,1
+212,Partial BitFit,123,0,entailment,0,entailment,1
+213,Partial BitFit,123,1,not_entailment,0,entailment,0
+214,Partial BitFit,123,0,entailment,0,entailment,1
+215,Partial BitFit,123,1,not_entailment,0,entailment,0
+216,Partial BitFit,123,0,entailment,1,not_entailment,0
+217,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+218,Partial BitFit,123,1,not_entailment,0,entailment,0
+219,Partial BitFit,123,0,entailment,0,entailment,1
+220,Partial BitFit,123,0,entailment,0,entailment,1
+221,Partial BitFit,123,0,entailment,0,entailment,1
+222,Partial BitFit,123,1,not_entailment,0,entailment,0
+223,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+224,Partial BitFit,123,0,entailment,0,entailment,1
+225,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+226,Partial BitFit,123,0,entailment,0,entailment,1
+227,Partial BitFit,123,0,entailment,1,not_entailment,0
+228,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+229,Partial BitFit,123,0,entailment,0,entailment,1
+230,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+231,Partial BitFit,123,0,entailment,0,entailment,1
+232,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+233,Partial BitFit,123,1,not_entailment,0,entailment,0
+234,Partial BitFit,123,0,entailment,1,not_entailment,0
+235,Partial BitFit,123,0,entailment,1,not_entailment,0
+236,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+237,Partial BitFit,123,0,entailment,1,not_entailment,0
+238,Partial BitFit,123,1,not_entailment,0,entailment,0
+239,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+240,Partial BitFit,123,0,entailment,1,not_entailment,0
+241,Partial BitFit,123,0,entailment,0,entailment,1
+242,Partial BitFit,123,1,not_entailment,0,entailment,0
+243,Partial BitFit,123,1,not_entailment,0,entailment,0
+244,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+245,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+246,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+247,Partial BitFit,123,0,entailment,0,entailment,1
+248,Partial BitFit,123,1,not_entailment,0,entailment,0
+249,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+250,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+251,Partial BitFit,123,0,entailment,0,entailment,1
+252,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+253,Partial BitFit,123,0,entailment,0,entailment,1
+254,Partial BitFit,123,1,not_entailment,0,entailment,0
+255,Partial BitFit,123,0,entailment,0,entailment,1
+256,Partial BitFit,123,0,entailment,0,entailment,1
+257,Partial BitFit,123,0,entailment,0,entailment,1
+258,Partial BitFit,123,1,not_entailment,0,entailment,0
+259,Partial BitFit,123,0,entailment,0,entailment,1
+260,Partial BitFit,123,0,entailment,0,entailment,1
+261,Partial BitFit,123,1,not_entailment,0,entailment,0
+262,Partial BitFit,123,0,entailment,0,entailment,1
+263,Partial BitFit,123,0,entailment,0,entailment,1
+264,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+265,Partial BitFit,123,1,not_entailment,0,entailment,0
+266,Partial BitFit,123,0,entailment,0,entailment,1
+267,Partial BitFit,123,1,not_entailment,0,entailment,0
+268,Partial BitFit,123,0,entailment,0,entailment,1
+269,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+270,Partial BitFit,123,1,not_entailment,0,entailment,0
+271,Partial BitFit,123,1,not_entailment,1,not_entailment,1
+272,Partial BitFit,123,0,entailment,0,entailment,1
+273,Partial BitFit,123,0,entailment,1,not_entailment,0
+274,Partial BitFit,123,0,entailment,0,entailment,1
+275,Partial BitFit,123,0,entailment,0,entailment,1
+276,Partial BitFit,123,1,not_entailment,1,not_entailment,1
