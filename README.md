@@ -1,7 +1,3 @@
-README 是仓库的门面，建议围绕 **“这是什么项目、复现了什么、怎么跑起来、结果如何”** 来组织。下面是一份可直接粘贴的 `README.md`，数据全部来自你的最终报告和实验结果，你只需按实际仓库结构调整目录名即可。
-
----
-
 # BitFit 论文复现：GLUE RTE + BERT-base-cased
 
 本仓库是自然语言处理项目实践（G10 组）的最终代码与结果。我们在 **GLUE RTE** 上，用 **BERT-base-cased** 对照复现了 ACL 2022 短文 [BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models](https://aclanthology.org/2022.acl-short.1/)，并补充了 **bias 子集消融** 与 **BitFit 学习率单因素实验**。
@@ -132,5 +128,3 @@ G10 组：谢升均（组长）、蔡嘉迅、梁又文、哈拉哈提·乌热�
 └── report/
     └── BitFit_最终报告.pdf
 ```
-
-README 里不用把所有 CSV 都列全，挑关键的 5–6 个即可，其余用 `results/` 目录概括。
