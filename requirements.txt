@@ -1,0 +1,15 @@
+# BitFit 复现实验 —— GLUE RTE + bert-base-cased
+# 严格锁定版本，与最终实验环境一致
+# Python 3.13 / CUDA 13.0 / Tesla T4
+# 安装：
+#   pip install torch==2.14.1+cu130 --index-url https://download.pytorch.org/whl/cu130
+#   pip install -r requirements.txt
+
+torch==2.14.1+cu130
+transformers==5.22.1
+datasets==4.8.5
+accelerate==1.15.0
+tokenizers==0.23.3
+numpy==2.4.6
+pandas==2.2.3
+tqdm==4.67.3
