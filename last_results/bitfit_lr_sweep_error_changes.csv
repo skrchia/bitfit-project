@@ -1,0 +1,4 @@
+﻿lr,wrong_samples,correct_samples,fixed_vs_5e-4,broken_vs_5e-4,net_change_vs_5e-4
+0.0001,113,164,19,43,-24
+0.0005,89,188,0,0,0
+0.001,89,188,16,16,0

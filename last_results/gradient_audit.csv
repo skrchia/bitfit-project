@@ -1,0 +1,18 @@
+﻿run_id,experiment_group,method,seed,lr,gradient_tensors,missing_gradient_tensors,zero_gradient_tensors,nonfinite_gradient_tensors,gradient_check_pass
+Full FT_seed42_lr2e-05,main,Full FT,42,2e-05,201,0,0,0,True
+Full FT_seed123_lr2e-05,main,Full FT,123,2e-05,201,0,0,0,True
+Full FT_seed2026_lr2e-05,main,Full FT,2026,2e-05,201,0,0,0,True
+Classifier-only_seed42_lr0.001,main,Classifier-only,42,0.001,2,0,0,0,True
+Classifier-only_seed123_lr0.001,main,Classifier-only,123,0.001,2,0,0,0,True
+Classifier-only_seed2026_lr0.001,main,Classifier-only,2026,0.001,2,0,0,0,True
+BitFit_seed42_lr0.0005,main,BitFit,42,0.0005,100,0,0,0,True
+BitFit_seed123_lr0.0005,main,BitFit,123,0.0005,100,0,0,0,True
+BitFit_seed2026_lr0.0005,main,BitFit,2026,0.0005,100,0,0,0,True
+Partial BitFit (query-only)_seed42_lr0.005,main,Partial BitFit (query-only),42,0.005,14,0,0,0,True
+Partial BitFit (query-only)_seed123_lr0.005,main,Partial BitFit (query-only),123,0.005,14,0,0,0,True
+Partial BitFit (query-only)_seed2026_lr0.005,main,Partial BitFit (query-only),2026,0.005,14,0,0,0,True
+BitFit_seed42_lr0.0001,lr_sweep,BitFit,42,0.0001,100,0,0,0,True
+BitFit_seed42_lr0.001,lr_sweep,BitFit,42,0.001,100,0,0,0,True
+Partial BitFit (query+intermediate)_seed42_lr0.005,main,Partial BitFit (query+intermediate),42,0.005,27,0,0,0,True
+Partial BitFit (query+intermediate)_seed123_lr0.005,main,Partial BitFit (query+intermediate),123,0.005,27,0,0,0,True
+Partial BitFit (query+intermediate)_seed2026_lr0.005,main,Partial BitFit (query+intermediate),2026,0.005,27,0,0,0,True
